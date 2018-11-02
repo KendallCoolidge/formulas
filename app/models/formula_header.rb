@@ -1,0 +1,2 @@
+class FormulaHeader < ApplicationRecord
+end
